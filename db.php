@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $db   = 'furniture_store';
-$user = 'root';
-$pass = '';
+$user = 'admin';
+$pass = 'admin';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
